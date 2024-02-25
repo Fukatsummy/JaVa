@@ -1,1 +1,1 @@
-package FilesExample;
+package game;
